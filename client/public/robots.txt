@@ -1,0 +1,11 @@
+
+# AnimeBite Robots.txt
+User-agent: *
+Allow: /
+Disallow: /watch/
+Disallow: /profile/
+Disallow: /forum/post/
+Disallow: /auth/
+
+# Sitemap
+Sitemap: https://animebite.cc/sitemap.xml
